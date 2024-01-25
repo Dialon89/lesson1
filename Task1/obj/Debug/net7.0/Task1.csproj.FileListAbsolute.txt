@@ -1,0 +1,15 @@
+/home/dialon/GBstady/C#/lesson1/Task1/bin/Debug/net7.0/Task1
+/home/dialon/GBstady/C#/lesson1/Task1/bin/Debug/net7.0/Task1.deps.json
+/home/dialon/GBstady/C#/lesson1/Task1/bin/Debug/net7.0/Task1.runtimeconfig.json
+/home/dialon/GBstady/C#/lesson1/Task1/bin/Debug/net7.0/Task1.dll
+/home/dialon/GBstady/C#/lesson1/Task1/bin/Debug/net7.0/Task1.pdb
+/home/dialon/GBstady/C#/lesson1/Task1/obj/Debug/net7.0/Task1.csproj.AssemblyReference.cache
+/home/dialon/GBstady/C#/lesson1/Task1/obj/Debug/net7.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/home/dialon/GBstady/C#/lesson1/Task1/obj/Debug/net7.0/Task1.AssemblyInfoInputs.cache
+/home/dialon/GBstady/C#/lesson1/Task1/obj/Debug/net7.0/Task1.AssemblyInfo.cs
+/home/dialon/GBstady/C#/lesson1/Task1/obj/Debug/net7.0/Task1.csproj.CoreCompileInputs.cache
+/home/dialon/GBstady/C#/lesson1/Task1/obj/Debug/net7.0/Task1.dll
+/home/dialon/GBstady/C#/lesson1/Task1/obj/Debug/net7.0/refint/Task1.dll
+/home/dialon/GBstady/C#/lesson1/Task1/obj/Debug/net7.0/Task1.pdb
+/home/dialon/GBstady/C#/lesson1/Task1/obj/Debug/net7.0/Task1.genruntimeconfig.cache
+/home/dialon/GBstady/C#/lesson1/Task1/obj/Debug/net7.0/ref/Task1.dll
